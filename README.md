@@ -5,7 +5,7 @@
 
 - :computer: Currently working on an app, called KeyApp. KeyApp is an access application that uses the state of the art in facial recognition, making physical contact unnecessary. Check the website https://keyapp.ai/ if u want to know more about it (this is a CyberLabs Ai product, I work on the developer's team that make the app)
 
-- Also, i'm learning alot about nativescript-vue, making native apps in <b>hard</b> dude.
+- Also, i'm learning alot about nativescript-vue, making native apps is <b>hard</b> dude.
 
 - :coffee: If u want to talk about Coffee, u came to the right person.
 
